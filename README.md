@@ -1,3 +1,5 @@
+[![Go](https://github.com/jceatwell/go-dojo-twelvedays/actions/workflows/go.yml/badge.svg)](https://github.com/jceatwell/go-dojo-twelvedays/actions/workflows/go.yml)
+
 # Having GO fun with Dojos
 
 Reference: https://beta.cyber-dojo.org/creator/home
